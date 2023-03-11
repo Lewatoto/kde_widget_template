@@ -1,0 +1,22 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "myemail@gmail.com",
+        "Name": "My Name"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "A widget to take over the world!",
+    "Icon": "battery",
+    "Id": "com.github.lewatoto.template",
+    "Name": "Hello World",
+    "ServiceTypes": [
+      "Plasma/Applet"
+    ],
+    "Version": "0.1",
+    "Website": "https://github.com/Lewatoto/kde_widget_template"
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml"
+}
